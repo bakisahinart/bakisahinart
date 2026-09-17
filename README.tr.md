@@ -127,4 +127,6 @@ Aşağıdaki projeler aktif geliştirme aşamasında olup henüz tamamlanmamış
 
 ## İletişim
 
-[bakisahinart@gmail.com](mailto:bakisahinart@gmail.com)
+- E-posta: [bakisahinart@gmail.com](mailto:bakisahinart@gmail.com)
+- LinkedIn: [linkedin.com/in/bakisahinart](https://www.linkedin.com/in/bakisahinart/)
+- Web sitesi: [bakisahin.com](https://bakisahin.com)
