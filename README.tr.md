@@ -24,16 +24,19 @@ Profesyonel faaliyetim üç paralel çizgide ilerliyor:
 
 ## Teknik Yetkinlikler
 
-Her projenin gereksinimlerine uygun teknolojilerle, birden fazla programlama dili kullanarak full stack web uygulamaları geliştiriyor.
+**Programlama Dilleri:** JavaScript, TypeScript, PHP, Python, SQL  
+**Web Teknolojileri:** HTML, CSS
 
-**Canlı ürünler üzerinden gözlemlenen teknik yetkinlikler:**
+Web uygulamalarını; frontend, backend, veritabanı ve API entegrasyonları dahil olmak üzere yapay zekâ destekli iş akışlarıyla geliştiriyorum. Geliştirme sürecini doğrudan yazılım çalışmalarıyla yürütürken uygulama, hata ayıklama ve kod iyileştirme aşamalarında yapay zekâ araçlarından yararlanıyorum.
 
-- Multi-tenant SaaS mimarisi (hesap başına veri izolasyonu, rol tabanlı erişim, abonelik faturalaması)
+**Canlı ürünlerden öne çıkan mimari kararlar:**
+
+- Çok kiracılı SaaS mimarisi (hesap bazlı veri izolasyonu, rol tabanlı erişim, abonelik yönetimi)
 - E-ticaret platformları (ürün yönetimi, sepet, sipariş akışı, indirim mantığı)
-- Kariyer ve danışmanlık platformları (çok adımlı uygunluk süreçleri, randevu sistemi, belge yönetimi)
-- CRM sistemleri (müşteri takibi, operasyonel denetim, dahili araçlar)
-- Duyarlı ve mobil uyumlu web arayüzleri (CodexTurk'te PWA desteği gözlemlendi)
-- Güvenli kimlik doğrulama yapıları (2FA, SSL, CodexTurk'te KVKK uyumlu veri işleme)
+- Kariyer ve danışmanlık platformları (çok adımlı uygunluk akışları, randevu yönetimi, belge takibi)
+- Duyarlı ve mobil uyumlu web arayüzleri (PWA desteği)
+- Güvenli kimlik doğrulama yöntemleri (2FA, SSL, KVKK uyumlu veri işleme)
+- Kurumsal CRM geliştirme (gelir, gider ve alacak takibi; raporlama)
 
 ---
 
