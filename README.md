@@ -127,4 +127,6 @@ The following projects are currently in active development and are not yet compl
 
 ## Contact
 
-[bakisahinart@gmail.com](mailto:bakisahinart@gmail.com)
+- Email: [bakisahinart@gmail.com](mailto:bakisahinart@gmail.com)
+- LinkedIn: [linkedin.com/in/bakisahinart](https://www.linkedin.com/in/bakisahinart/)
+- Website: [bakisahin.com](https://bakisahin.com)
