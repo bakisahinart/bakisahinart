@@ -24,16 +24,19 @@ My professional activity runs across three parallel tracks:
 
 ## Technical Skills
 
-Builds full-stack web applications using appropriate technologies for each project's requirements, across multiple programming languages.
+**Programming Languages:** JavaScript, TypeScript, PHP, Python, SQL  
+**Web Technologies:** HTML, CSS
+
+I develop web applications using AI-assisted workflows across frontend, backend, databases, and API integrations. My approach combines hands-on development with AI tools for implementation, debugging, and code improvement.
 
 **Demonstrated through live products:**
 
 - Multi-tenant SaaS architecture (isolated data per account, role-based access, subscription billing)
 - E-commerce platforms (product management, cart, order flow, discount logic)
 - Career and consultancy platforms (multi-step eligibility flows, appointment booking, document management)
-- CRM systems (client tracking, operational oversight, internal tooling)
-- Responsive and mobile-compatible web interfaces (PWA support observed on CodexTurk)
-- Secure authentication patterns (2FA, SSL, KVKK-compliant data handling observed on CodexTurk)
+- Responsive and mobile-compatible web interfaces (PWA support)
+- Secure authentication patterns (2FA, SSL, KVKK-compliant data handling)
+- In-house CRM development (revenue, expense and receivables tracking; reporting)
 
 ---
 
